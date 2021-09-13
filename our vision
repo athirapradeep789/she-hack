@@ -1,0 +1,41 @@
+<DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+        <title>Document</title>
+    </head>
+    <body>
+        
+        <h1> OUR VISION FOR SHE HACK</h1>
+
+        
+
+        <div class="content">
+            <h2 class="name">Athira NP</h2>
+            <h3> Vision</h3>
+            <p>A woman in tech solves problems big and small.... She thinks not only of what a career in tech can do for her, but what skills she can use to make an impact on her community, country and world. Once she finds what her passion is, a woman in tech thinks about what she can do to make it better for others. </p>
+            <p>Trought this type of ventures we can explore new things.It will help us to improve our skills ;and it's also a good oppertunity to gaining up our confidence  </p>
+        </div>
+
+        <div class="content">
+            <h2 class="name">Anupama PT</h2>
+            <h3> Vision</h3>
+            <p> A girl with a passion towards the programming world to explore the never ending possibilities and miracles.I wish to make a fantastic magical world of programming</p>
+        
+        </div>
+        
+
+<div class="content">
+            <h2 class="name">Muhsina Muhammed</h2>
+            <h3> Vision</h3>
+            <p>At she hacks,we believe that technology can open new door for us,and also give us the required tools to shine in our carrier</p>
+    
+        </div>
+
+
+    </body>
+    </html><!D
